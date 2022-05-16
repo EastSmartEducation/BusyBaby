@@ -8,5 +8,9 @@
       "text": "图书系统",
       "path": "book.md"
     }
+    {
+      "text": "资产",
+      "path": "zichan.md"
+    }
   ]
 }
