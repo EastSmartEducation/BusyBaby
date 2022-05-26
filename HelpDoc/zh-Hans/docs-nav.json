@@ -1,16 +1,8 @@
-{
+﻿{
   "items": [
     {
-      "text": "快速入门",
+      "text": "快速入门0526",
       "path": "Index.md"
-    }
-    {
-      "text": "图书系统",
-      "path": "book.md"
-    }
-    {
-      "text": "资产",
-      "path": "zichan.md"
     }
   ]
 }
